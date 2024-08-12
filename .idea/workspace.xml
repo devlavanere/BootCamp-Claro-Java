@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdd28c87-f051-4039-be6f-6ad4c9b27d65" name="Changes" comment="anatomia da classe tipos variaveis.">
+    <list default="true" id="cdd28c87-f051-4039-be6f-6ad4c9b27d65" name="Changes" comment="Concluindo operadores .">
+      <change afterPath="$PROJECT_DIR$/src/sintaxe_basica_java/metodos/SmartTv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sintaxe_basica_java/metodos/Usuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +49,7 @@
   "keyToString": {
     "Application.MinhaClasse.executor": "Run",
     "Application.Operadores.executor": "Run",
+    "Application.Usuario.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -76,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1723299359786</updated>
       <workItem from="1723299360824" duration="3702000" />
-      <workItem from="1723461936681" duration="8185000" />
+      <workItem from="1723461936681" duration="11630000" />
     </task>
     <task id="LOCAL-00001" summary="anatomia da classe metodo">
       <option name="closed" value="true" />
@@ -94,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723463542189</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Concluindo operadores .">
+      <option name="closed" value="true" />
+      <created>1723471039948</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723471039948</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,7 +125,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="anatomia da classe metodo" />
     <MESSAGE value="anatomia da classe tipos variaveis." />
-    <option name="LAST_COMMIT_MESSAGE" value="anatomia da classe tipos variaveis." />
+    <MESSAGE value="Concluindo operadores ." />
+    <option name="LAST_COMMIT_MESSAGE" value="Concluindo operadores ." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
