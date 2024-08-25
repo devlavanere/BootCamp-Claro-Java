@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdd28c87-f051-4039-be6f-6ad4c9b27d65" name="Changes" comment="Concluindo operadores .">
-      <change afterPath="$PROJECT_DIR$/src/sintaxe_basica_java/metodos/SmartTv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sintaxe_basica_java/metodos/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sintaxe_basica_java/desafio/ContaTerminal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,12 +47,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ContaTerminal.executor": "Run",
     "Application.MinhaClasse.executor": "Run",
     "Application.Operadores.executor": "Run",
     "Application.Usuario.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/dev/apps/intellij/projetos/Bootcamp-Claro-Java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,8 +67,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18968.26" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18968.26" />
       </set>
     </attachedChunks>
   </component>
@@ -80,6 +82,7 @@
       <updated>1723299359786</updated>
       <workItem from="1723299360824" duration="3702000" />
       <workItem from="1723461936681" duration="11630000" />
+      <workItem from="1724569308088" duration="3143000" />
     </task>
     <task id="LOCAL-00001" summary="anatomia da classe metodo">
       <option name="closed" value="true" />
